@@ -61,8 +61,8 @@ export default function Home() {
                 Developer and Learner
               </h3>
               <p className={`text-md py-3 leading-8 ${darkMode ? 'text-gray-300' : 'text-gray-800'} md:text-xl max-w-xl mx-left list-disc`}>
-                'Passionate Third-Year IT Student Driven to Excel in Web Development,
-                Continuously learning new technologies and striving to create innovative and user-friendly web applications'.
+                Passionate Third-Year IT Student Driven to Excel in Web Development,
+                Continuously learning new technologies and striving to create innovative and user-friendly web applications.
               </p>
             </div>
 
