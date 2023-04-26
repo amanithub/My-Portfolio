@@ -1,0 +1,17 @@
+// styles.css
+
+.scroll-button {
+  @apply fixed bottom-8 right-8 w-12 h-12 bg-white border-none rounded-full cursor-pointer animate-arrow-blink;
+}
+
+@keyframes arrow-blink {
+  0% {
+    opacity: 0;
+  }
+  50% {
+    opacity: 1;
+  }
+  100% {
+    opacity: 0;
+  }
+}
