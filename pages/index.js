@@ -46,7 +46,7 @@ export default function Home() {
               </li>
               <li>
                 <a className='bg-gradient-to-r from-cyan-500 to-teal-500 text-white px-4 py-2 rounded-md ml-8'
-                  href='https://drive.google.com/file/d/1vWmTymEfADNNFZEYGqukh3_C8ZWFD9wL/view?usp=sharing' target='blank'
+                  href='https://drive.google.com/file/d/18-BDSQ3FwIHiLu548cgEKUORo_BTT1Yo/view?usp=sharing' target='blank'
                 >
                   Resume
                 </a>
@@ -61,7 +61,7 @@ export default function Home() {
                 Developer and Learner
               </h3>
               <p className={`text-md py-3 leading-8 ${darkMode ? 'text-gray-300' : 'text-gray-800'} md:text-xl max-w-xl mx-left list-disc`}>
-                Passionate Third-Year IT Student Driven to Excel in Web Development,
+                Passionate Final-Year IT Student Driven to Excel in Web Development,
                 Continuously learning new technologies and striving to create innovative and user-friendly web applications.
               </p>
             </div>
